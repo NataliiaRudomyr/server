@@ -1,0 +1,102 @@
+{
+  "books": [
+    {
+      "title": "The Lord Of Rings",
+      "author": "J. R. R. Tolkien",
+      "category": "fantasy",
+      "isbn": "9780007136582",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "category": "adventure",
+      "isbn": " 9780060188702"
+    },
+    {
+      "id": 3,
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "category": "fairytale",
+      "isbn": " 9780544699588"
+    },
+    {
+      "id": 4,
+      "title": "Da Vinci Code",
+      "author": "Dan Brown",
+      "category": "thriller",
+      "isbn": " 9781592761012"
+    },
+    {
+      "id": 5,
+      "title": "Fifty Shades of Grey",
+      "author": "E. L. James",
+      "category": "romance novel",
+      "isbn": " 9780345803504"
+    },
+    {
+      "id": 7,
+      "title": "Odyssey",
+      "author": "Homer",
+      "category": "epic poetry",
+      "isbn": " 9780152928469"
+    },
+    {
+      "id": 8,
+      "title": "Twilight",
+      "author": "Meyer Stephenie",
+      "category": "young adult fiction",
+      "isbn": " 9780470507438"
+    },
+    {
+      "id": 9,
+      "title": "Lost Symbol",
+      "author": "Dan Brown",
+      "category": "crime",
+      "isbn": " 9781787372184"
+    },
+    {
+      "id": 10,
+      "title": "Lovely Bones",
+      "author": "Alice Sebold",
+      "category": "literary fiction",
+      "isbn": " 9781586638665"
+    },
+    {
+      "id": 11,
+      "title": "Digital Fortress",
+      "author": "Dan Brown",
+      "category": "crime",
+      "isbn": " 9787020067091"
+    },
+    {
+      "id": 12,
+      "title": "Breaking Dawn",
+      "author": "Stephenie Meyer",
+      "category": "young adult fiction",
+      "isbn": " 9780316067928"
+    },
+    {
+      "id": 13,
+      "title": "One Day",
+      "author": "David Nicholls",
+      "category": "literary fiction",
+      "isbn": " 9780061120343"
+    },
+    {
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "category": "literary fiction",
+      "isbn": "33333",
+      "id": 15
+    },
+    {
+      "title": "Don`t forget",
+      "author": "Edvard Sent-Obin",
+      "category": "drama",
+      "isbn": "76583039465875",
+      "id": 16
+    }
+  ]
+}
